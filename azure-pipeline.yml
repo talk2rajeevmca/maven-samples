@@ -1,5 +1,6 @@
 trigger:
 - master
+pool: self-hosted
 steps:
 - task: Maven@3
   
