@@ -1,6 +1,6 @@
 trigger:
 - master
-pool: self-hosted
+pool: Hosted Agent
 steps:
 - task: Maven@3
   
