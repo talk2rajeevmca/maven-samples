@@ -1,8 +1,8 @@
 trigger:
-- {{ branch }}
+- master
 
 pool:
-  {{ pool }}
+  Default
 
 steps:
 - task: Maven@3
