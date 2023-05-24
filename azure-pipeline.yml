@@ -1,6 +1,6 @@
 trigger:
 - master
-pool: test
+pool: Hosted Agent
 steps:
 - task: Maven@3
   
