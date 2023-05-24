@@ -1,6 +1,6 @@
 trigger:
 - master
-pool: Azure Pipeline
+pool: Azure Pipelines
 steps:
 - task: Maven@3
   
