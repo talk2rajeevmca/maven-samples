@@ -1,9 +1,5 @@
 trigger:
 - master
-
-pool:
-  Default
-
 steps:
 - task: Maven@3
   
